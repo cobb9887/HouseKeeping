@@ -2,5 +2,7 @@
   "name": "TidyDay - Daily Room Cleaning & Motivation Tracker",
   "description": "Daily and weekly cleaning schedule focusing on one room per day with reminders, checklists, and streak tracking.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
